@@ -32,7 +32,5 @@ public class printAscen {
 
         System.out.println("The sorted numbers are " + num1 + " " + num2 + " " + num3);
 
-
-
     }
 }

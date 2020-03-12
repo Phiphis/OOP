@@ -2,7 +2,7 @@ package wk1;
 
 import java.util.Scanner;
 
-public class circleInsideOverlap {
+public class e6_CircleInsideOverlap {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter center x-, y-coordinates and radius of the first circle: ");

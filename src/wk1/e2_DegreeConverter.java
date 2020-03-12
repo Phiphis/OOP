@@ -2,7 +2,7 @@ package wk1;
 
 import java.util.Scanner;
 
-public class degreeConverter {
+public class e2_DegreeConverter {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Insert a temperature in Celcius to be converted: ");

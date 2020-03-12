@@ -2,7 +2,7 @@ package wk1;
 
 import java.util.Scanner;
 
-public class displayNumbers {
+public class e9_DisplayNumbers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter an integer between 1 and 15: ");

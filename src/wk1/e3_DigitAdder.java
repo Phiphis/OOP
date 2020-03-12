@@ -2,7 +2,7 @@ package wk1;
 
 import java.util.Scanner;
 
-public class digitAdder {
+public class e3_DigitAdder {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Insert a positive integer: ");

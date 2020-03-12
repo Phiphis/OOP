@@ -2,7 +2,7 @@ package wk1;
 
 import java.util.Scanner;
 
-public class printAscen {
+public class e4_PrintAscen {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

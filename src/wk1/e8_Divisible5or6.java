@@ -2,7 +2,7 @@ package wk1;
 
 import java.util.Scanner;
 
-public class divisible5or6 {
+public class e8_Divisible5or6 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter an integer: ");
